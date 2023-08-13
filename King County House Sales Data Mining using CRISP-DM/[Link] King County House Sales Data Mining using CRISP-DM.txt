@@ -1,0 +1,17 @@
+link videostream : https://web.microsoftstream.com/video/57d1a171-03ac-4112-b8c1-efe3cac69941
+
+link source : https://ugm365-my.sharepoint.com/:f:/g/personal/rizky_alif_r_365_ugm_ac_id/EmHib87lrTtCiJIwEJt8TJoBAFpmnX3rMfQmS2waSzWMxw?e=3d5Spn
+
+link script : https://colab.research.google.com/drive/17nSjXCjnk3kivOO3ZFyDhD0hqdJt1_zs?usp=sharing
+
+link notebook : https://www.kaggle.com/rizkyalifr/eda-xgboost-regression/
+
+link power bi : https://app.powerbi.com/view?r=eyJrIjoiOWIxNTA5MTItNTg1NC00ZDQyLWEzYTctOWRiMTRhZGU3YmQ2IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D&pageName=ReportSection
+
+Rest Endpoint : http://c5df5d0f-4635-4de3-be26-7b5d44a6fd09.southeastasia.azurecontainer.io/score link source : https://ugm365-my.sharepoint.com/:f:/g/personal/rizky_alif_r_365_ugm_ac_id/EmHib87lrTtCiJIwEJt8TJoBAFpmnX3rMfQmS2waSzWMxw?e=3d5Spn
+
+link script : https://colab.research.google.com/drive/17nSjXCjnk3kivOO3ZFyDhD0hqdJt1_zs?usp=sharing
+
+link notebook : https://www.kaggle.com/rizkyalifr/eda-xgboost-regression/
+
+Rest Endpoint : http://c5df5d0f-4635-4de3-be26-7b5d44a6fd09.southeastasia.azurecontainer.io/score
